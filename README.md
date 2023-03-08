@@ -21,3 +21,6 @@ Server listening on port 8080
 ```
 
 ### Now you can send requests to given localhost port using postman or insomnia
+
+#### Get, delete all users and also create new user - localhost:8080/users
+#### Get, delete and update user with specific id - localhost:8080/users/id
